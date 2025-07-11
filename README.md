@@ -1,5 +1,7 @@
 # SlothAI
 
+作者：CWJ
+
 
 ## Project Introduction
 
